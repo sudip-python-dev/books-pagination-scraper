@@ -78,3 +78,7 @@ This project demonstrates advanced web scraping techniques including:
 - Structured table data extraction
 
 It was created as part of learning real-world data extraction workflows.
+
+## Sample Output
+
+![Sample Output](sample_output.png)
